@@ -1,3 +1,5 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5irmiMjtm9SgdxouqJ7fcdeUWzkhAvjqP1NutfFN-hqTnFlJlWhZ9vJV_xYxjWq-IESo&usqp=CAU" width="100" />
+
 # hello-world
 This is my first hello-world repository. In this I will try to learn some basic things like:
 
@@ -50,4 +52,6 @@ As soon as we make a commit, we can open a pull request and start a discussion, 
 # Note:
 These changes will be made only to the README file on your readme-edits branch, so now this branch contains content that's different from main.
 Now that we have changes in a branch off of main, you can open a pull request.
+
+![](https://www.kindpng.com/picc/m/128-1280330_github-logo-png-github-icon-blue-png-transparent.png)
 
